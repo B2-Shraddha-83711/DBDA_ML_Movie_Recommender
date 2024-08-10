@@ -1,1 +1,3 @@
 # DBDA_ML_Movie_Recommender
+We all know the struggle of deciding what to watch next, and we aim to resolve it by recommending movies based on the content you already enjoy.	
+The aim of this project is to develop a content based movie recommendation system using Machine Learning in Python. Focusing on a curated collection of popular Hollywood movies, this system will recommend films similar to those preferred and enjoyed by the user. Unlike traditional recommendation systems that rely heavily on user ratings or social data, this project digs deeper into what makes a movie appealing to you personally. It focuses on the content itself, such as the storyline, the genre, and the director’s style, ensuring that the recommendations are truly tailored to your tastes.
