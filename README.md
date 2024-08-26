@@ -6,9 +6,9 @@ This project is a Content-Based Movie Recommender System developed using Python,
 The project consists of various stages, each with a specific focus on creating, developing, and deploying the recommender system:
 
 ## Stage 1: Data Collection (Web Scraping)
-Objective: Collect movie data from the IMDb website.
-Method: Python's Selenium library was used to scrape movie metadata, including titles, genres, directors, plot summaries, and user votes.
-Outcome: The collected data was saved into a CSV file, which serves as the primary data source for the recommendation engine.
+### Objective: Collect movie data from the IMDb website.
+### Method: Python's Selenium library was used to scrape movie metadata, including titles, genres, directors, plot summaries, and user votes.
+### Outcome: The collected data was saved into a CSV file, which serves as the primary data source for the recommendation engine.
 
 ## Stage 2: Data Processing and Cleansing
 Objective: Prepare the scraped data for building the recommender system.
